@@ -1,0 +1,6 @@
+mlflow==3.16.1
+cloudpickle==3.1.2
+colorama==0.4.6
+numpy==2.4.6
+pandas==3.0.6
+torch==2.14.0
